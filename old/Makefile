@@ -1,5 +1,5 @@
 CC=g++
-SRC=$(wildcard *.c)
+SRC=$(wildcard*.c)
 OBJ= $(SRC:.c=.o)
 EXEC=2010x8b
 CFLAGS=-c -Wall  
