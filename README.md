@@ -11,11 +11,9 @@ DevelopedBy: nanoTech
 email: nanotechbr.corp@gmail.com
 youtube: https://www.youtube.com/user/LegiaoGamerBR
 -------------------------------------------------------
-TODO
+THIS PROGRAM IS DEPRECATED, USE THIS: https://github.com/thiagofigcosta/Crypt-16.08kB
 -------------------------------------------------------
-*big nCript=data corrupted, unstable cript. if solved CHECKHASHFAIL and CHECKDATALOSS can be false to increase speed(priority)
-*increase methods speed(add,mult)
-*issue if large strings/files
+
 
 ====
 ENUS
